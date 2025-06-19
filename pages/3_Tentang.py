@@ -2,7 +2,8 @@ import streamlit as st
 
 st.set_page_config(page_title="Tentang Model", layout="centered")
 
-st.title("🧠 Tentang Model Klasifikasi Daun Timun")
+st.title("Klasifikasi Penyakit Daun Tanaman Timun Berbasis Convolutional Neural Network (CNN)")
+st.title("Tentang")
 
 st.markdown("""
 Aplikasi ini dikembangkan untuk mengklasifikasikan **penyakit pada daun timun** berdasarkan gambar menggunakan metode **Convolutional Neural Network (CNN)** dengan arsitektur **VGG16**.

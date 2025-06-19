@@ -38,7 +38,7 @@ class_info = {
     "Powdery Mildew (Embun Tepung)": "🔗 [Info tentang Powdery Mildew](https://plantix.net/id/library/plant-diseases/100002/powdery-mildew/)"
 }
 
-st.title("🔍 Klasifikasi Gambar Daun Timun")
+st.title("Klasifikasi Penyakit Daun Tanaman Timun Berbasis Convolutional Neural Network (CNN)")
 
 uploaded_file = st.file_uploader("Pilih gambar daun timun", type=["jpg", "jpeg", "png"])
 

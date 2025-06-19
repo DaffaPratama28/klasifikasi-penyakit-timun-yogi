@@ -3,7 +3,8 @@ from PIL import Image
 
 st.set_page_config(page_title="Visualisasi Performa Model", layout="centered")
 
-st.title("📈 Visualisasi Performa Model Klasifikasi Daun Timun")
+st.title("Klasifikasi Penyakit Daun Tanaman Timun Berbasis Convolutional Neural Network (CNN)")
+st.title("Visual")
 
 st.markdown("""
 Halaman ini menyajikan hasil evaluasi dari model CNN berbasis arsitektur **VGG16** yang telah dilatih untuk mengenali 5 kategori penyakit pada daun timun. Visualisasi ini membantu memahami **sejauh mana model mampu mengenali pola** dari gambar input berdasarkan data validasi.

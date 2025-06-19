@@ -17,7 +17,7 @@ with cent_co:
     st.image(logo)
     
 
-st.title("Klasifikasi Penyakit Daun Tanaman Timun Berbasis CNN")
+st.title("Klasifikasi Penyakit Daun Tanaman Timun Berbasis Convolutional Neural Network (CNN)")
 st.write("Aplikasi ini mengklasifikasikan penyakit daun timun dengan model CNN berbasis VGG16.")
 
 st.write("""
