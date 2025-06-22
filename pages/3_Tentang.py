@@ -35,8 +35,8 @@ st.subheader("🎯 Performa Model")
 st.markdown("""
 Model yang telah dilatih menunjukkan performa sebagai berikut:
 
-- **Akurasi pada dataset validasi**: **80,00%**
-- **Akurasi pada dataset test**: **78,50%**
+- **Akurasi pada dataset validasi**: **76,50%**
+- **Akurasi pada dataset test**: **76,50%**
 
 Evaluasi dilakukan menggunakan metrik:
 - **Confusion Matrix**
